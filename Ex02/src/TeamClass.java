@@ -14,9 +14,14 @@ public class TeamClass {
 		System.out.println("희돈바보");
 		System.out.println("뭔가 추가");
 		System.out.println("진짜 이건 아니다 유은지 진짜 누나라고 불리기 싫군요? ");
+<<<<<<< HEAD
 		System.out.println(" 나만의 작업공간 branch");
 		System.out.println("나만의 작업공간");
 		System.out.println("sysysy뇨뇨");
+=======
+		System.out.println("나만의 작업공간 branch");
+		
+>>>>>>> 9cc1c6ad0df71112000c0adc42bd8e567a994ace
 	}
 
 }
