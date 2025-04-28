@@ -9,7 +9,7 @@ public class TeamClass {
 		System.out.println("홍성재");
 		System.out.println("test2");
 		System.out.println(" rkhr"); 
-		System.out.println("은지바보");
+		System.out.println("희돈바보");
 	}
 
 }
