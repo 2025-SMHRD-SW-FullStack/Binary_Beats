@@ -13,7 +13,7 @@ public class TeamClass {
 		System.out.println("ghdtjdgkwodmdsl");
 		System.out.println("희돈바보");
 		System.out.println("뭔가 추가");
-		
+		System.out.println("진짜 이건 아니다 유은지 진짜 누나라고 불리기 싫군요? ");
 	}
 
 }
