@@ -12,7 +12,8 @@ public class TeamClass {
 		System.out.println("은지바보");
 		System.out.println("ghdtjdgkwodmdsl");
 		System.out.println("희돈바보");
-
+		System.out.println("뭔가 추가");
+		
 	}
 
 }
