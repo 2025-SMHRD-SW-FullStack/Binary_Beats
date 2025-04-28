@@ -16,7 +16,7 @@ public class TeamClass {
 		System.out.println("진짜 이건 아니다 유은지 진짜 누나라고 불리기 싫군요? ");
 		System.out.println(" 나만의 작업공간 branch");
 		System.out.println("나만의 작업공간");
-
+		System.out.println("sysysy뇨뇨");
 	}
 
 }
