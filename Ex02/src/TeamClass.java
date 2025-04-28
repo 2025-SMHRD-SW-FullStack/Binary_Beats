@@ -10,6 +10,8 @@ public class TeamClass {
 		System.out.println("test2");
 		System.out.println(" rkhr"); 
 		System.out.println("희돈바보");
+		System.out.println("나만의 작업공간 branch");
+		
 	}
 
 }
